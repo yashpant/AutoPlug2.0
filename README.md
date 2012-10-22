@@ -1,4 +1,4 @@
 AutoPlug2.0
 ===========
 
-Yeah
+Please see the .txt readme.
