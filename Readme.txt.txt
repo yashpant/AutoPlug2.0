@@ -66,3 +66,5 @@ On the machine running MATLAB, run ESE519->Matlab Gui->test_serial.m
 
 
 Note: Refer to the documentation for the Architecture. Also, AutoNet_Current has the NanoRK version of the code.
+
+Link to the video http://www.youtube.com/watch?v=vchbkNtnr-U
